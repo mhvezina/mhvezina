@@ -3,13 +3,10 @@
 <!--
 **mhvezina/mhvezina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=mhvezina&show_icons=true&theme=react" width="300"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mhvezina&show_icons=true&theme=react" width="300"> -->
 
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2EyaWNzN2p2MnFlcjVmNWxxdGJwOW0xZmlzbWkzanY5OGFhM2pnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pCxK8loDjJKm2ElmSA/giphy.gif" width="300"/>
 
-
- <!--<img src="https://media.giphy.com/media/Qc0BxWM9TxljvJug2x/giphy.gif" width="300"/>-->
-
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpwM2lvbGQ5cHdzMGFzbWhjODI4bjRtNThhbmEzMmszMmo1a29zaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IbOiFIJcSlHW2rgVUa/giphy.gif" width="300"/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mhvezina&theme=default&background=LightSkyBlue&locale=fr)](https://git.io/streak-stats)
 <img src="https://komarev.com/ghpvc/?username=mhvezina&style=flat-square&color=blue" alt=""/>
