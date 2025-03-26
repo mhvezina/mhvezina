@@ -7,8 +7,8 @@
 
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2EyaWNzN2p2MnFlcjVmNWxxdGJwOW0xZmlzbWkzanY5OGFhM2pnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pCxK8loDjJKm2ElmSA/giphy.gif" width="300"/>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mhvezina&theme=default&background=LightSkyBlue&locale=fr)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mhvezina&theme=default&background=LightSkyBlue&locale=fr)](https://git.io/streak-stats)
 <img src="https://komarev.com/ghpvc/?username=mhvezina&style=flat-square&color=blue" alt=""/>
 
 <!-- ![Statistiques GitHub pour mhvezina](https://github-readme-stats.vercel.app/api?username=mhvezina&show_icons=true&theme=radical) -->
