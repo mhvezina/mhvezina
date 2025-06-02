@@ -1,7 +1,14 @@
 ##  Bonjour!
 
-<!--
-**mhvezina/mhvezina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Je suis bibliothécaire à la [Direction des Bibliothèques de l'Université de Montréal] (https://github.com/BibNumUMontreal), où je travaille sur des projets de données, de bibliométrie et de développement liés à la communication savante et à la science ouverte.
+
+
+## 🛠️ Projets en cours
+
+- 🔍 Analyse des publications scientifiques avec [OpenAlex](https://openalex.org/)
+- 📊 Développement d’outils de visualisation de données pour les bibliothèques
+- 🤖 Scripts Python pour l’extraction et le traitement de données bibliographiques prvenant de différentes sources
+- 📚 Exploitation et soutien du serveur [Pressbooks UdeM](https://ren.bib.umontreal.ca) pour la publication en libre accès (accès interne seulement).
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mhvezina&show_icons=true&theme=react" width="300"> -->
 
@@ -14,9 +21,3 @@
 <!-- ![Statistiques GitHub pour mhvezina](https://github-readme-stats.vercel.app/api?username=mhvezina&show_icons=true&theme=radical) -->
 
 <img src="https://bib.umontreal.ca/typo3conf/ext/udem_bootstrap/Resources/Public/udem-logo.svg" alt="logo UdeM" width="100"/>  ![](https://bib.umontreal.ca/typo3conf/ext/udem_bib/Resources/Public/Images/logo-bib.svg)
-
-Je fais partie de la [Direction des Bibliothèques de l'Université de Montréal](https://github.com/BibNumUMontreal).
-
-
-
-
