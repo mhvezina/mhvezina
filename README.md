@@ -1,7 +1,8 @@
 ##  Bonjour!
+<img src="https://droit.umontreal.ca/fileadmin/_processed_/a/1/csm_Sceau_logo-Biblio_UdeM-CMJN_5a8400800c.jpg" alt="logo UdeM" width="100"/>
+Je suis bibliothécaire à la [Direction des Bibliothèques de l'Université de Montréal](https://github.com/BibNumUMontreal), où je travaille sur des projets de données, de bibliométrie et de développement liés à la communication savante et à la science ouverte.
 
-Je suis bibliothécaire à la [Direction des Bibliothèques de l'Université de Montréal] (https://github.com/BibNumUMontreal), où je travaille sur des projets de données, de bibliométrie et de développement liés à la communication savante et à la science ouverte.
-
+🕒 Fuseau horaire : Montréal, QC (UTC-5)
 
 ## 🛠️ Projets en cours
 
@@ -20,4 +21,4 @@ Je suis bibliothécaire à la [Direction des Bibliothèques de l'Université de 
 
 <!-- ![Statistiques GitHub pour mhvezina](https://github-readme-stats.vercel.app/api?username=mhvezina&show_icons=true&theme=radical) -->
 
-<img src="https://bib.umontreal.ca/typo3conf/ext/udem_bootstrap/Resources/Public/udem-logo.svg" alt="logo UdeM" width="100"/>  ![](https://bib.umontreal.ca/typo3conf/ext/udem_bib/Resources/Public/Images/logo-bib.svg)
+
