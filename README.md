@@ -1,6 +1,6 @@
 ##  Bonjour!
 <img src="https://droit.umontreal.ca/fileadmin/_processed_/a/1/csm_Sceau_logo-Biblio_UdeM-CMJN_5a8400800c.jpg" alt="logo UdeM" width="100"/>
-Je suis bibliothécaire à la [Direction des Bibliothèques de l'Université de Montréal](https://github.com/BibNumUMontreal), où je travaille sur des projets de données, de bibliométrie et de développement liés à la communication savante et à la science ouverte.
+Je suis bibliothécaire à la [Direction des Bibliothèques de l'Université de Montréal](https://github.com/BibNumUMontreal), où je travaille sur des projets de données, de soutien à la bibliométrie et de développement liés à la communication savante et à la science ouverte.
 
 🕒 Fuseau horaire : Montréal, QC (UTC-5)
 
