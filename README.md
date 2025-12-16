@@ -9,7 +9,7 @@ Je suis bibliothécaire à la [Direction des Bibliothèques de l'Université de 
 - 🔍 Analyse des publications scientifiques avec [OpenAlex](https://openalex.org/)
 - 📊 Développement d’outils de visualisation de données pour les bibliothèques
 - 🤖 Scripts Python pour l’extraction et le traitement de données bibliographiques provenant de différentes sources
-- 📚 Exploitation et soutien du serveur [Pressbooks UdeM](https://rel.bib.umontreal.ca) pour la publication en libre accès (accès interne seulement).
+- 📚 Exploitation et soutien du serveur [Pressbooks UdeM](https://rel.bib.umontreal.ca) pour la publication de ressources en libre accès.
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mhvezina&show_icons=true&theme=react" width="300"> -->
 
