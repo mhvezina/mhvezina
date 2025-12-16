@@ -7,18 +7,16 @@ Je suis bibliothécaire à la [Direction des Bibliothèques de l'Université de 
 ## 🛠️ Projets en cours
 
 - 🔍 Analyse des publications scientifiques avec [OpenAlex](https://openalex.org/)
-- 📊 Développement d’outils de visualisation de données pour les bibliothèques
+- 📊 Développement d'outils de visualisation de données pour les bibliothèques
 - 🤖 Scripts Python pour l’extraction et le traitement de données bibliographiques provenant de différentes sources
 - 📚 Exploitation et soutien du serveur [Pressbooks UdeM](https://rel.bib.umontreal.ca) pour la publication de ressources en libre accès.
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=mhvezina&show_icons=true&theme=react" width="300"> -->
+Liste de mes contributions et publications : [https://mhvezina.github.io/contributions/](https://mhvezina.github.io/contributions/)
 
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2EyaWNzN2p2MnFlcjVmNWxxdGJwOW0xZmlzbWkzanY5OGFhM2pnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pCxK8loDjJKm2ElmSA/giphy.gif" width="300"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mhvezina&theme=blue-green&border_radius=10&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=482&card_height=178)](https://git.io/streak-stats)
-
-<img src="https://komarev.com/ghpvc/?username=mhvezina&style=flat-square&color=blue" alt=""/>
-
-<!-- ![Statistiques GitHub pour mhvezina](https://github-readme-stats.vercel.app/api?username=mhvezina&show_icons=true&theme=radical) -->
+![Mes stats](https://github-readme-stats-fast.vercel.app/api?username=mhvezina&show_icons=true&theme=transparent)
 
 
+
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F2ejJraTVpbGloODVvNDhodjZ6eDk4ZTM0NGkyMWE3MHBoaHd0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S44UZQ6vWEogPUmOaS/giphy.gif" width="300"/> -->
+
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc3OTBqMm1obThlMWJmeWR3cGVqZjlhaXR6YzFvYmRrcDJhcG05bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtkPHG3MIgzJAf6/giphy.gif" width="300"/>
