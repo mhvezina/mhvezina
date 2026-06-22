@@ -4,12 +4,14 @@ Je suis bibliothécaire à la Bibliothèque de l'ETS, où je travaille sur des p
 
 🕒 Fuseau horaire : Montréal, QC (UTC-5)
 
+<!--
 ## 🛠️ Projets en cours
 
 - 🔍 Analyse des publications scientifiques avec [OpenAlex](https://openalex.org/)
 - 📊 Développement d'outils de visualisation de données pour les bibliothèques
 - 🤖 Scripts Python pour l’extraction et le traitement de données bibliographiques provenant de différentes sources
 - 📚 Exploitation et soutien du serveur [Pressbooks UdeM](https://rel.bib.umontreal.ca) pour la publication de ressources en libre accès.
+-->
 
 Liste de mes contributions et publications : [https://mhvezina.github.io/contributions/](https://mhvezina.github.io/contributions/)
 
